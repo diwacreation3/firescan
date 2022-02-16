@@ -1,7 +1,7 @@
 
 <img src="/static/assets/logo1.png" alt="Fire🔥Scan" width="250">
 
-# How much of a strainer is your website ?
+# Let's scan your website through 🔥Fire scan ?
 🔥fire scan helps you to improve your website's security.
 
 ## Prerequisite
