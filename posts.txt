@@ -1,0 +1,4 @@
+Team leader: Diwakar Phuyal
+Co- leader: Suvim
+Frontend-manager: Delta wing
+backend: kai
